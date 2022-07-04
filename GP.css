@@ -1,0 +1,164 @@
+.content {
+    height: 900px;
+    background-image: url("https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg?cs=srgb&dl=pexels-s-migaj-747964.jpg&fm=jpg");
+    background-size: cover;
+    margin: -8px;
+    margin-top: -40px;
+    opacity: 100%;
+}
+
+.about {
+    background-image: url("https://images.pexels.com/photos/2451037/pexels-photo-2451037.jpeg?cs=srgb&dl=pexels-casia-charlie-2451037.jpg&fm=jpg");
+    height: 900px;
+    background-size: cover;
+    margin: -8px;
+    margin-top: -20px;
+    text-align: center;
+    opacity: 100%;
+}
+
+.para2 {
+    text-align: left;
+    position: relative;
+    width: 40%;
+    left: 10%;
+    top: 400px;
+    font-size: 150%;
+    color: blanchedalmond;
+}
+
+.back1 {
+    width: 50px;
+    position: relative;
+}
+
+.navigation {
+    width: 150%;
+    position: fixed;
+    top: 30px;
+    left: 60%;
+    z-index: 100;
+}
+
+.logo {
+    position: fixed;
+    top: -5px;
+    left: 7px;
+}
+
+.nav1 {
+    position: relative;
+    left: -10px;
+}
+
+.nav2 {
+    position: relative;
+    left: 30px;
+}
+
+.nav3 {
+    position: relative;
+    left: 70px;
+}
+
+.nav4 {
+    position: relative;
+    left: 110px;
+}
+
+.nav5 {
+    position: relative;
+    left: 150px;
+}
+
+.intro {
+    text-align: center;
+    position: relative;
+    font-size: 150%;
+    top: 250px;
+    left: -220px;
+}
+
+.image {
+    position: relative;
+    left: 850px;
+    top: 30px;
+    border-radius: 50%;
+    border: 5px solid #555;
+}
+
+.image2 {
+    width: 30%;
+    position: relative;
+    left: 400px;
+}
+
+.under {
+    width: 30%;
+    position: relative;
+    top: 250px;
+    left: 300px;
+    font-size: 150%;
+    font-family:
+}
+
+.interest {
+    background-image: url("https://images.pexels.com/photos/6064824/pexels-photo-6064824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    height: 800px;
+    background-size: cover;
+    margin: -8px;
+    margin-top: -50px;
+    text-align: center;
+}
+
+.h2 {
+    font-size: 300%;
+}
+
+.qualification {
+    background-image: url("https://images.pexels.com/photos/2924291/pexels-photo-2924291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    height: 800px;
+    background-size: cover;
+    margin: -8px;
+    margin-top: -20px;
+    text-align: center;
+}
+
+.gallary {
+    background-image: url("https://images.pexels.com/photos/4818958/pexels-photo-4818958.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    height: 800px;
+    background-size: cover;
+    margin: -8px;
+    margin-top: -20px;
+}
+
+.contact {
+    background-image: url("https://images.pexels.com/photos/7975593/pexels-photo-7975593.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    height: 200px;
+    background-size: cover;
+    margin: -8px;
+    margin-top: -10px;
+}
+
+.table {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    margin-top: 100x;
+}
+
+.gal {
+    text-align: center;
+}
+
+.minecraft {
+    width: 40%;
+    margin-left: 800px;
+    margin-top: -200px;
+    position: relative;
+}
+
+.cont {
+    text-align: center;
+}
