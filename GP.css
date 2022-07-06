@@ -35,9 +35,15 @@
 .navigation {
     width: 150%;
     position: fixed;
-    top: 30px;
-    left: 60%;
+    top: 10px;
+    left: 750px;
     z-index: 100;
+}
+
+a:hover {
+    background-color: rgb(219, 172, 107);
+    border-radius: 5px;
+    padding: 10px;
 }
 
 .logo {
@@ -71,12 +77,21 @@
     left: 150px;
 }
 
+.nav6 {
+    position: relative;
+    left: 180px;
+}
+
 .intro {
     text-align: center;
     position: relative;
     font-size: 150%;
     top: 250px;
     left: -220px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(215, 176, 128);
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
 }
 
 .image {
@@ -99,7 +114,12 @@
     top: 250px;
     left: 300px;
     font-size: 150%;
-    font-family:
+    color: rgb(159, 43, 202);
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: black;
+    background-color: rgb(57, 247, 247);
+    padding: 20px;
+    border-radius: 15px;
 }
 
 .interest {
@@ -109,6 +129,39 @@
     margin: -8px;
     margin-top: -50px;
     text-align: center;
+    color: rgb(56, 60, 11);
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: black;
+}
+
+.Football {
+    background-color: aqua;
+    width: 50%;
+    position: relative;
+    left: 350px;
+    border-radius: 10px;
+    padding: 5px;
+    bottom: -50px;
+}
+
+.gaming {
+    background-color: aqua;
+    width: 50%;
+    position: relative;
+    left: 350px;
+    border-radius: 10px;
+    padding: 5px;
+    bottom: -150px;
+}
+
+.piano {
+    background-color: aqua;
+    width: 50%;
+    position: relative;
+    left: 350px;
+    border-radius: 10px;
+    padding: 5px;
+    bottom: -100px;
 }
 
 .h2 {
@@ -137,7 +190,7 @@
     height: 200px;
     background-size: cover;
     margin: -8px;
-    margin-top: -10px;
+    margin-top: -20px;
 }
 
 .table {
@@ -146,6 +199,10 @@
     margin-right: auto;
     position: relative;
     margin-top: 100x;
+    bottom: -100px;
+    background-color: rgb(251, 254, 182);
+    border-radius: 10px;
+    padding: 10px;
 }
 
 .gal {
