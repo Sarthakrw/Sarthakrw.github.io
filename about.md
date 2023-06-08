@@ -24,6 +24,7 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+comments : false
 ---
 
 Hi ! I'm **Sarthak** and am currently a 2nd year B.Tech CSE(Specialization in AI&ML) student in Dronacharya College of Engineering.
