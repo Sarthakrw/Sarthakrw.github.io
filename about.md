@@ -27,7 +27,7 @@ key: page-about
 comments : false
 ---
 
-Hi ! I'm **Sarthak** and am currently a 2nd year B.Tech CSE(Specialization in AI&ML) student in Dronacharya College of Engineering.
+Hi ! I'm **Sarthak** and am currently a 3rd year B.Tech CSE(Specialization in AI&ML) student in Dronacharya College of Engineering.
 
 As an aspiring deep learning engineer I'm extremely passionate about the field and how AI posses the ability to greatly increase the quality of our lives. My interest in the field was developed through some of the pioneers in the field such as **Ilya Sutskever**, **Andrew Ng** and **Andrej Karpathy**. In fact, it was Andrej Karpathy's blog that motivated me into making a blog and sharing my ideas and journey in this field.
 
