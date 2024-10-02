@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: article
 title: Our World With AGI & Superintelligence
 aside:
   toc: true
